@@ -10,6 +10,7 @@ This sentence is about: Watch, news reports, Resources, ’ s, Daily News, Artic
 
 
 And the second file summary_tool.py in this we introduced the naive text summarization algorithm for extractive summarization. So, the Naive method for the summarization is
+https://www.slideshare.net/AkashKarwande/text-summarization-85399149
 
 
  1.splitting a text into sentences
